@@ -1,11 +1,3 @@
-"""
-6.0002 Spring 2019 Problem Set 2
-Graph Optimization
-
-Name: Shirin Amouei
-Collaborators: None
-Time: 3:00
-"""
 
 """A set of data structures to represent the graphs that you will be using for this pset."""
 
