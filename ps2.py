@@ -1,11 +1,3 @@
-"""
-6.0002 Spring 2019 Problem Set 2
-Graph optimization
-
-Name: Shirin Amouei
-Collaborators: None
-Time: 10:00
-"""
 
 """Finding shortest paths to drive from home to work on a road network"""
 
